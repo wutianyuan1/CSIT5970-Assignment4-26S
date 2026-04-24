@@ -1,6 +1,6 @@
 # CSIT5970 Assignment-4 (8 marks)
 
-### Deadline: May 10, 23:59 (Saturday)
+### Deadline: May 10, 23:59 (Sunday)
 
 ---
 
